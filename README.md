@@ -9,3 +9,5 @@ This library is a compact tool designed to help users draw Regions of Interest (
 
 ## Applications:
 Useful in tasks like tracking, monitoring, or object counting across fields such as traffic, industry, or agriculture.
+
+![image](https://github.com/user-attachments/assets/60d7d452-314e-42a3-a935-a311610a11b3)
